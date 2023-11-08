@@ -1,0 +1,10 @@
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\Assets.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\Assets.obj
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\Color.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\Color.obj
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\ComputeShader.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\ComputeShader.obj
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\Log.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\Log.obj
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\MeshObject.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\MeshObject.obj
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\Shader.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\Shader.obj
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\Texture.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\Texture.obj
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\TextureKtx.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\TextureKtx.obj
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\Timer.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\Timer.obj
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\WindowSdl.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\engine.dir\Debug\WindowSdl.obj

@@ -1,0 +1,7 @@
+﻿  Building Custom Rule D:/Projects/Cpp/opengl-training/AdvancedOpenGL/src/engine/input/CMakeLists.txt
+  InputManager.cpp
+  Input_ControllerState.cpp
+  Input_KeyboardState.cpp
+  Input_MouseState.cpp
+  Generating Code...
+  input.vcxproj -> D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\input\Debug\input.lib

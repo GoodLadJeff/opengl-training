@@ -7,10 +7,11 @@ class CubeMesh {
 public:
   void load();
   void draw();
+  void drawPatches();
   void clean();
 private:
   GLuint vao;
-  GLuint buffer;
+  GLuint vbo;
 };
 
 #endif
