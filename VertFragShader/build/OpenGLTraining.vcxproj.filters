@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\main.cpp">
+    <ClCompile Include="D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\Projects\Cpp\opengl-training\AdvancedOpenGL\CMakeLists.txt" />
+    <CustomBuild Include="D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{CCFB584C-2DBE-38FA-AF4F-1813113D8015}</UniqueIdentifier>
+      <UniqueIdentifier>{879C8813-C8A8-3925-B419-78A2DC737763}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

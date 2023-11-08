@@ -3,8 +3,8 @@
 	BuildStamp="20231108-1021-Experimental"
 	Name="desktop-joff"
 	Generator="ctest-3.28.0-rc3"
-	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe"
-	CompilerVersion="19.37.32825.0"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx64/x64/cl.exe"
+	CompilerVersion="19.34.31947.0"
 	OSName="Windows"
 	Hostname="desktop-joff"
 	OSRelease=" Personal"
@@ -24,11 +24,11 @@
 	ProcessorClockFrequency="2592"
 	>
 	<Testing>
-		<StartDateTime>Nov 08 11:21 Romance Standard Time</StartDateTime>
-		<StartTestTime>1699438884</StartTestTime>
+		<StartDateTime>Nov 08 12:26 Romance Standard Time</StartDateTime>
+		<StartTestTime>1699442767</StartTestTime>
 		<TestList/>
-		<EndDateTime>Nov 08 11:21 Romance Standard Time</EndDateTime>
-		<EndTestTime>1699438884</EndTestTime>
+		<EndDateTime>Nov 08 12:26 Romance Standard Time</EndDateTime>
+		<EndTestTime>1699442767</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

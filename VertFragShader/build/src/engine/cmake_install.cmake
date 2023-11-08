@@ -1,8 +1,8 @@
-# Install script for directory: D:/Projects/Cpp/opengl-training/AdvancedOpenGL/src/engine
+# Install script for directory: D:/Projects/Cpp/Tesselation/opengl-training/VertFragShader/src/engine
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/OpenGLTraining")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files/OpenGLTraining")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,11 +34,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Projects/Cpp/opengl-training/AdvancedOpenGL/build/src/engine/maths/cmake_install.cmake")
+  include("D:/Projects/Cpp/Tesselation/opengl-training/VertFragShader/build/src/engine/maths/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Projects/Cpp/opengl-training/AdvancedOpenGL/build/src/engine/input/cmake_install.cmake")
+  include("D:/Projects/Cpp/Tesselation/opengl-training/VertFragShader/build/src/engine/input/cmake_install.cmake")
 endif()
 

@@ -1,4 +1,4 @@
-D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\input\InputManager.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\input\input.dir\Debug\InputManager.obj
-D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\input\Input_ControllerState.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\input\input.dir\Debug\Input_ControllerState.obj
-D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\input\Input_KeyboardState.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\input\input.dir\Debug\Input_KeyboardState.obj
-D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\input\Input_MouseState.cpp;D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\input\input.dir\Debug\Input_MouseState.obj
+D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\src\engine\input\InputManager.cpp;D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\build\src\engine\input\input.dir\Debug\InputManager.obj
+D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\src\engine\input\Input_ControllerState.cpp;D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\build\src\engine\input\input.dir\Debug\Input_ControllerState.obj
+D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\src\engine\input\Input_KeyboardState.cpp;D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\build\src\engine\input\input.dir\Debug\Input_KeyboardState.obj
+D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\src\engine\input\Input_MouseState.cpp;D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\build\src\engine\input\input.dir\Debug\Input_MouseState.obj

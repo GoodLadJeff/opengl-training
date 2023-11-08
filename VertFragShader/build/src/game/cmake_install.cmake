@@ -1,8 +1,8 @@
-# Install script for directory: D:/Projects/Cpp/opengl-training/AdvancedOpenGL/src/game
+# Install script for directory: D:/Projects/Cpp/Tesselation/opengl-training/VertFragShader/src/game
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/OpenGLTraining")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files/OpenGLTraining")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

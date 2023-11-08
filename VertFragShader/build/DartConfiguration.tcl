@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: D:/Projects/Cpp/opengl-training/AdvancedOpenGL
-BuildDirectory: D:/Projects/Cpp/opengl-training/AdvancedOpenGL/build
+SourceDirectory: D:/Projects/Cpp/Tesselation/opengl-training/VertFragShader
+BuildDirectory: D:/Projects/Cpp/Tesselation/opengl-training/VertFragShader/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "D:/Projects/Cpp/opengl-training/AdvancedOpenGL"
+ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "D:/Projects/Cpp/Tesselation/opengl-training/VertFragShader"
 MakeCommand: "C:\Program Files\CMake\bin\cmake.exe" --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 
@@ -63,8 +63,8 @@ UpdateOptions:
 UpdateType: 
 
 # Compiler info
-Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe
-CompilerVersion: 19.37.32825.0
+Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx64/x64/cl.exe
+CompilerVersion: 19.34.31947.0
 
 # Dynamic analysis (MemCheck)
 PurifyCommand: 

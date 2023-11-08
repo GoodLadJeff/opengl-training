@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\CMakeFiles\116711f2b8d68f29b412ee1334f3db0c\PACKAGE_force.rule">
+    <CustomBuild Include="D:\Projects\Cpp\Tesselation\opengl-training\VertFragShader\build\CMakeFiles\676703430d68a2799891137bea5c751c\PACKAGE_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{41A98296-5308-3480-8FF6-133FB1D2EC2C}</UniqueIdentifier>
+      <UniqueIdentifier>{CBEA4870-0D9C-3EFF-9AC1-0D7645FA2970}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

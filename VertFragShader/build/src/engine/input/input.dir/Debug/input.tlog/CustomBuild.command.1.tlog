@@ -1,6 +1,6 @@
-^D:\PROJECTS\CPP\OPENGL-TRAINING\ADVANCEDOPENGL\SRC\ENGINE\INPUT\CMAKELISTS.TXT
+^D:\PROJECTS\CPP\TESSELATION\OPENGL-TRAINING\VERTFRAGSHADER\SRC\ENGINE\INPUT\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/Projects/Cpp/opengl-training/AdvancedOpenGL -BD:/Projects/Cpp/opengl-training/AdvancedOpenGL/build --check-stamp-file D:/Projects/Cpp/opengl-training/AdvancedOpenGL/build/src/engine/input/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Projects/Cpp/Tesselation/opengl-training/VertFragShader -BD:/Projects/Cpp/Tesselation/opengl-training/VertFragShader/build --check-stamp-file D:/Projects/Cpp/Tesselation/opengl-training/VertFragShader/build/src/engine/input/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
