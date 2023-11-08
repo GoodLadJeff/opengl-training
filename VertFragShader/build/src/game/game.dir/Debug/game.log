@@ -1,0 +1,34 @@
+﻿  Building Custom Rule D:/Projects/Cpp/opengl-training/AdvancedOpenGL/src/game/CMakeLists.txt
+  CubeMesh.cpp
+  CubeObject.cpp
+  Game.cpp
+  SceneMain.cpp
+  Scene_001_Color.cpp
+  Scene_002_Point.cpp
+  Scene_003_Triangle.cpp
+  Scene_004_PassingData.cpp
+  Scene_005_Tessellation.cpp
+  Scene_006_Fragment.cpp
+  Scene_007_SpinningCube.cpp
+  Scene_008_SpinningCubes.cpp
+  Scene_009_TextureAsData.cpp
+  Scene_010_TextureCoordinates.cpp
+  Scene_011_MipmapTunnel.cpp
+  Scene_012_ArrayTextureAlienRain.cpp
+  Scene_013_InstancedGrassBlades.cpp
+  Scene_014_IndirectDrawAstroids.cpp
+  Scene_015_TessellationModes.cpp
+  Scene_016_TerrainRendering.cpp
+  Generating Code...
+  Compiling...
+  Scene_017_CubicBezierPatches.cpp
+  Scene_018_DiscardGeometry.cpp
+  Scene_019_ModifyGeometry.cpp
+  Scene_020_GenerateGeometry.cpp
+  Scene_021_ChangePrimitiveType.cpp
+  Scene_022_ComputeShaderPrefixSum.cpp
+  Scene_023_ComputeShaderGrid.cpp
+  Scene_024_ComputeShaderRaytacing.cpp
+  Scene_025_ComputeShaderBoids.cpp
+  Generating Code...
+  game.vcxproj -> D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\game\Debug\game.lib

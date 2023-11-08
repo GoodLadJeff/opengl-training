@@ -1,0 +1,14 @@
+﻿  Building Custom Rule D:/Projects/Cpp/opengl-training/AdvancedOpenGL/src/engine/CMakeLists.txt
+  Assets.cpp
+  Color.cpp
+  ComputeShader.cpp
+  Log.cpp
+  MeshObject.cpp
+D:\Projects\Cpp\opengl-training\AdvancedOpenGL\src\engine\MeshObject.cpp(179,45): warning C4312: 'type cast': conversion from 'unsigned int' to 'void *' of greater size
+  Shader.cpp
+  Texture.cpp
+  TextureKtx.cpp
+  Timer.cpp
+  WindowSdl.cpp
+  Generating Code...
+  engine.vcxproj -> D:\Projects\Cpp\opengl-training\AdvancedOpenGL\build\src\engine\Debug\engine.lib
